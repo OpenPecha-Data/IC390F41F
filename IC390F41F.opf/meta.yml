@@ -1,0 +1,32 @@
+id: IC390F41F
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:49:08.409984'
+last_modified: '2022-05-30T20:49:08.409990'
+parser: null
+source_metadata:
+  title: Ga Rabjampa Kunga Yeshe
+  language: bo
+  description: 'Texts by and about the Sakya scholar Ga Rabjampa Kunga Yeshe (sga
+    rab ''byams pa kun dga'' ye shes, 1397–1470), founder of Tharlam Monastery:'
+  volume:
+    f57CA:
+      title: 'The Excellent Path to Enlightenment: An Aspiration Towards the Mahāyāna
+        Mind Training'
+      base_file: f57CA.txt
+      order: 1
+      parent: Aspiration Prayers
+    f16E8:
+      title: Praise of Kunga Yeshe, Great Being and Master of Extensive Scriptural
+        Traditions
+      base_file: f16E8.txt
+      order: 2
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
